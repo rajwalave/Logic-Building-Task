@@ -4,7 +4,7 @@ This repository contains Python solutions for foundational logic-building exerci
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 The goal of this assignment is to solve five real-world logic problems using Python. Each script is designed to be clean, readable, and well-documented.
 
 ### 1. User Login Check
